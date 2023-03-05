@@ -1,3 +1,18 @@
-header {
+.cabecalio{
     background-color: #BE8E62;
+    display: flex;
+    justify-content: space-around;
+     
+
 }
+.cabecalio-logo{
+    width: 20;}
+    .cabecalio-lista-item{
+        display: inline-blocks;
+    margin:  16px;
+    font-size: 24px;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+    }
